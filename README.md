@@ -46,7 +46,7 @@ The current draft makes TENNISSA's three founders **designated directors** with 
 |---|---|---|
 | Jimmy Ardiansyah | Executive Director | West/Middle Tennessee |
 | Nur Sisworahardjo | Compliance Director | Southeast Tennessee |
-| Andi Hermanto | Financial Controller Director | East Tennessee |
+| Andi Hermanto | Operational Director | East Tennessee |
 
 **How it works:**
 
