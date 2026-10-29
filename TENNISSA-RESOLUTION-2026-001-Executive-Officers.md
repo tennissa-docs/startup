@@ -12,7 +12,7 @@
 
 > ⚠️ **Drafting note for the Board. Remove before signing.**
 >
-> - This resolution replaces the earlier draft. It appoints three paid officers instead of one, and replaces the compensation tiers based on scholarship funds administered with a fixed $500 per month for each officer, starting January 1, 2027.
+> - This resolution replaces the earlier draft. It appoints three paid officers instead of one, and replaces the compensation tiers based on scholarship funds administered with a fixed $1,000 per month for each officer, starting January 1, 2027.
 > - **“Retroactive” is structured as deferred pay, not back pay.** Pay is approved now, before any paid service begins, and accrues month by month from January 2027. It is paid out when operating funds are available. Approving pay after the work has already been done (true retroactive pay) is what the IRS and TENNISSA’s own policies treat as high risk, and this resolution does not do that.
 > - **All three officers are Founding Directors.** Each vote is a related arrangement, so approval by the founders alone does not meet the “disinterested director” standard of IRC § 4958 or Tenn. Code Ann. § 48-58-703. Section 3 requires ratification by independent directors before any payment.
 > - **Paid officers are employees.** Wage-and-hour rules, payroll taxes and the tax timing of deferred pay all need confirmation by counsel and a CPA (Sections 2.5 and 4).
@@ -57,7 +57,7 @@ F. The Board intends to replace the earlier draft’s compensation tiers, which 
 
 ### 2.1 Rate
 
-Each officer shall receive fixed compensation of **$500 per month ($6,000 per year)** for part-time executive services. The total for all three officers is **$18,000 per year**, plus the employer share of payroll taxes.
+Each officer shall receive fixed compensation of **$1,000 per month ($12,000 per year)** for part-time executive services. The total for all three officers is **$36,000 per year**, plus the employer share of payroll taxes.
 
 ### 2.2 Start date; earlier service is voluntary
 
@@ -111,7 +111,7 @@ Reasonable, documented business expenses may be reimbursed under FIN-001 § 8. T
 
 3.2 **Limits of founder-only approval.** All three officers are Founding Directors, and the three compensation arrangements are related. The Board recognizes that approval by the remaining founders alone may not meet the disinterested-approval standards of IRC § 4958 and Treas. Reg. § 53.4958-6, or of Tenn. Code Ann. § 48-58-703, which requires approval by at least two qualified directors. Accordingly:
 
-(a) the Board relies on the comparability information summarized in Exhibit A, and on the written advice of counsel or a CPA, that $500 per month is reasonable for the duties described;
+(a) the Board relies on the comparability information summarized in Exhibit A, and on the written advice of counsel or a CPA, that $1,000 per month is reasonable for the duties described;
 
 (b) the Board shall make reasonable efforts to seat at least two independent directors as soon as practicable (which requires amending Bylaws § 4.2 to allow a larger Board). Those independent directors shall review and, if they find it appropriate, **ratify** this compensation;
 
@@ -299,10 +299,10 @@ Signature: ______________________ Date: __________
 
 | Item | Per officer | Three officers |
 |---|---|---|
-| Monthly compensation | $500 | $1,500 |
-| Annual compensation | $6,000 | $18,000 |
-| Employer FICA (estimated 7.65%) | $459 | $1,377 |
-| Estimated annual cost | $6,459 | $19,377 |
+| Monthly compensation | $1,000 | $3,000 |
+| Annual compensation | $12,000 | $36,000 |
+| Employer FICA (estimated 7.65%) | $918 | $2,754 |
+| Estimated annual cost | $12,918 | $38,754 |
 
 **Comparability information** (to be completed before the vote; attach sources):
 
@@ -312,15 +312,15 @@ Signature: ______________________ Date: __________
 |   |   |   |   |   |
 |   |   |   |   |   |
 
-Suitable sources include published nonprofit compensation surveys, Forms 990 of similar small Tennessee nonprofits or SGOs, and written offers for comparable part-time roles. Because $6,000 per year for a part-time executive role is well below typical market pay, the main purpose of this exhibit is to document the Board’s reasoning.
+Suitable sources include published nonprofit compensation surveys, Forms 990 of similar small Tennessee nonprofits or SGOs, and written offers for comparable part-time roles. Because $12,000 per year for a part-time executive role is below typical market pay, the main purpose of this exhibit is to document the Board’s reasoning.
 
 ## Exhibit B: Accrued Compensation Record (template)
 
 | Month | Officer | Earned | Funds certified? (Y/N) | Paid | Date paid | Accrued balance |
 |---|---|---|---|---|---|---|
-| Jan 2027 | J. Ardiansyah | $500 |   |   |   |   |
-| Jan 2027 | N. Sisworahardjo | $500 |   |   |   |   |
-| Jan 2027 | A. Hermanto | $500 |   |   |   |   |
+| Jan 2027 | J. Ardiansyah | $1,000 |   |   |   |   |
+| Jan 2027 | N. Sisworahardjo | $1,000 |   |   |   |   |
+| Jan 2027 | A. Hermanto | $1,000 |   |   |   |   |
 
 Maintained by the Operational Director and included in each monthly financial report (Section 9.1). Accrued 2027 compensation must be paid by March 15, 2028, or addressed by the Board under Section 2.5(e).
 
