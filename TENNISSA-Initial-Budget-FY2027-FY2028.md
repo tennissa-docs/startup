@@ -24,9 +24,9 @@
 | Meets 25F minimum students? | Yes | Yes |  |
 | Section 25F closing balance | $76,356 | $171,125 |  |
 | Total operating revenue | $41,968 | $65,528 | $107,496 |
-| Total operating expenses | $51,450 | $60,412 | $111,862 |
-| Operating surplus (deficit) | ($9,482) | $5,116 | ($4,366) |
-| Closing operating cash (reserve) | ($9,482) | ($4,366) |  |
+| Total operating expenses | $57,750 | $69,862 | $127,612 |
+| Operating surplus (deficit) | ($15,782) | ($4,334) | ($20,116) |
+| Closing operating cash (reserve) | ($15,782) | ($20,116) |  |
 | **90% scholarship-spending check (by gift year)** |  |  |  |
 
 | Gift-year group | 25F income | Scholarships paid by Dec 31, 2028 | % spent |
@@ -50,23 +50,23 @@
 
 | Category | Year 1 (FY2027) | Year 2 (FY2028) | 2-year total | % of Year 2 | Year 2 monthly avg |
 |---|--:|--:|--:|--:|--:|
-| 1. Professional services | $17,000 | $16,500 | $33,500 | 27.3% | $1,375 |
-| 2. Platforms and technology | $12,690 | $16,365 | $29,055 | 27.1% | $1,364 |
-| 3. Promotional | $5,500 | $6,900 | $12,400 | 11.4% | $575 |
-| 4. Travel | $1,500 | $2,000 | $3,500 | 3.3% | $167 |
-| 5. Operational staff | $6,150 | $9,100 | $15,250 | 15.1% | $758 |
-| 6. Insurance (\*) | $3,900 | $4,200 | $8,100 | 7.0% | $350 |
-| 7. Registrations and government fees (\*) | $920 | $330 | $1,250 | 0.5% | $28 |
-| 8. Office and administration (\*) | $1,340 | $2,140 | $3,480 | 3.5% | $178 |
-| Contingency | $2,450 | $2,877 | $5,327 | 4.8% | $240 |
-| **Total operating expenses** | **$51,450** | **$60,412** | **$111,862** | **100.0%** | **$5,034** |
+| 1. Professional services | $17,000 | $16,500 | $33,500 | 23.6% | $1,375 |
+| 2. Platforms and technology | $12,690 | $16,365 | $29,055 | 23.4% | $1,364 |
+| 3. Promotional | $5,500 | $6,900 | $12,400 | 9.9% | $575 |
+| 4. Travel | $1,500 | $2,000 | $3,500 | 2.9% | $167 |
+| 5. Operational staff | $12,150 | $18,100 | $30,250 | 25.9% | $1,508 |
+| 6. Insurance (\*) | $3,900 | $4,200 | $8,100 | 6.0% | $350 |
+| 7. Registrations and government fees (\*) | $920 | $330 | $1,250 | – | $28 |
+| 8. Office and administration (\*) | $1,340 | $2,140 | $3,480 | 3.1% | $178 |
+| Contingency | $2,750 | $3,327 | $6,077 | 4.8% | $277 |
+| **Total operating expenses** | **$57,750** | **$69,862** | **$127,612** | **100.0%** | **$5,822** |
 | **Funded by** |  |  |  |  |  |
 | Admin allocation from Section 25F (10%) | $16,968 | $38,028 | $54,996 |  |  |
 | Founder and Board operating gifts | $15,000 | $7,500 | $22,500 |  |  |
 | Community operating gifts and events | $10,000 | $15,000 | $25,000 |  |  |
 | Foundation grants | – | $5,000 | $5,000 |  |  |
 | **Total operating revenue** | **$41,968** | **$65,528** | **$107,496** |  |  |
-| **Surplus (funding gap)** | **($9,482)** | **$5,116** | **($4,366)** |  |  |
+| **Surplus (funding gap)** | **($15,782)** | **($4,334)** | **($20,116)** |  |  |
 
 ## Budget
 
@@ -120,10 +120,10 @@
 | Travel and school visits (mileage, lodging) | $1,500 | $2,000 | $3,500 | Requested line. Statewide: Memphis, Nashville, Chattanooga, Knoxville. |
 | **Subtotal: 4. travel** | **$1,500** | **$2,000** | **$3,500** |  |
 | **5. Operational staff** |  |  |  |  |
-| Operational staff stipends | $6,000 | $9,000 | $15,000 | Requested line. Staff count × $250/month × months (Assumptions tab). |
+| Operational staff stipends | $12,000 | $18,000 | $30,000 | Requested line. Staff count × monthly stipend × months (Assumptions tab). |
 | Executive Director compensation | – | – | – | Founders volunteer. Any pay must be fixed, reasonable, approved by disinterested directors, and paid from the Operating Fund only (FIN-001 §11). |
 | Background checks for staff and reviewers (\*) | $150 | $100 | $250 | Added. For anyone handling student and family data. |
-| **Subtotal: 5. operational staff** | **$6,150** | **$9,100** | **$15,250** |  |
+| **Subtotal: 5. operational staff** | **$12,150** | **$18,100** | **$30,250** |  |
 | **6. Insurance (\*)** |  |  |  |  |
 | Directors and officers (D&O) | $1,200 | $1,200 | $2,400 | Added. Broker quote needed. |
 | Crime and fidelity | $900 | $1,200 | $2,100 | Added. Coverage at least equal to the highest 25F balance (FIN-001 §10). |
@@ -142,15 +142,15 @@
 | Bank fees | $240 | $240 | $480 | Added. Many banks waive fees for nonprofits. |
 | Training and conferences | $500 | $1,000 | $1,500 | Added. SGO and nonprofit compliance training. |
 | **Subtotal: 8. office and administration (\*)** | **$1,340** | **$2,140** | **$3,480** |  |
-| **Total operating expenses before contingency** | **$49,000** | **$57,535** | **$106,535** |  |
-| Contingency | $2,450 | $2,877 | $5,327 |  |
-| **Total operating expenses** | **$51,450** | **$60,412** | **$111,862** |  |
+| **Total operating expenses before contingency** | **$55,000** | **$66,535** | **$121,535** |  |
+| Contingency | $2,750 | $3,327 | $6,077 |  |
+| **Total operating expenses** | **$57,750** | **$69,862** | **$127,612** |  |
 | **D. OPERATING FUND: RESULT AND CASH** |  |  |  |  |
-| **Operating surplus (deficit)** | **($9,482)** | **$5,116** | **($4,366)** |  |
-| Opening operating cash | – | ($9,482) |  |  |
-| **Closing operating cash (reserve)** | **($9,482)** | **($4,366)** |  | **Aim to build at least 3 months of operating expenses as a reserve over time.** |
-| Reserve in months of operating expenses | (2.2) | (0.9) |  |  |
-| Operating expenses as % of Section 25F contributions | 30.6% | 16.1% |  | Above 10% means operating gifts must cover the difference. |
+| **Operating surplus (deficit)** | **($15,782)** | **($4,334)** | **($20,116)** |  |
+| Opening operating cash | – | ($15,782) |  |  |
+| **Closing operating cash (reserve)** | **($15,782)** | **($20,116)** |  | **Aim to build at least 3 months of operating expenses as a reserve over time.** |
+| Reserve in months of operating expenses | (3.3) | (3.5) |  |  |
+| Operating expenses as % of Section 25F contributions | 34.4% | 18.6% |  | Above 10% means operating gifts must cover the difference. |
 
 ## Assumptions
 
@@ -173,7 +173,7 @@
 | Opening operating cash, Year 1 ($) | – |  | Year 2 opening = Year 1 closing (calculated). |
 | **Operational staff** |  |  |  |
 | Number of operational staff | 2 | 3 | Assumed headcount, adjust as needed. Contractors paid $600+ in a year need a W-9 and Form 1099-NEC. If a director receives a stipend, it is compensation and must be approved by disinterested directors (COI-001 §11). |
-| Stipend per person per month ($) | $250 | $250 | Owner-provided rate. |
+| Stipend per person per month ($) | $500 | $500 | Owner-provided rate (updated Oct 29, 2026 from $250). |
 | Months paid in the year | 12 | 12 | Year 1 could start later (e.g., 10 months if staff begin in March 2027). |
 | **Other** |  |  |  |
 | Contingency (% of operating expenses) | 5.0% | 5.0% | Unplanned costs, quotes higher than expected. |
@@ -192,8 +192,8 @@
 | Scholarship pool | $64,800 | $140,400 | $151,200 | $337,500 | $270,000 | $576,000 |
 | Students funded (estimate) | 32 | 63 | 75 | 153 | 135 | 261 |
 | Operating revenue | $32,200 | $43,100 | $41,800 | $65,000 | $55,000 | $91,500 |
-| Operating expenses (incl. contingency) | $48,930 | $54,663 | $51,450 | $60,412 | $54,915 | $67,368 |
-| **Operating surplus (deficit)** | **($16,730)** | **($11,563)** | **($9,650)** | **$4,588** | **$85** | **$24,132** |
+| Operating expenses (incl. contingency) | $55,230 | $64,113 | $57,750 | $69,862 | $61,215 | $76,818 |
+| **Operating surplus (deficit)** | **($23,030)** | **($21,013)** | **($15,950)** | **($4,862)** | **($6,215)** | **$14,682** |
 
 > Takeaway: at low donor volume the 10% admin allocation does not cover fixed costs (audit, platform, insurance), so founders and community operating gifts carry the organization. Raise operating gifts or cut fixed costs before the low case happens.
 
